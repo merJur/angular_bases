@@ -1,0 +1,17 @@
+.num{
+    border: 1px solid gray;
+    border-radius: 12px;
+    padding: 2px 5px;
+    margin: 0 1rem;
+}
+
+.contador{
+    border: 1px solid gray;
+    border-radius: 12px;
+    margin: 2rem auto;
+    padding: 2rem;
+    width: 27rem;
+    justify-content: center;
+    
+
+}
